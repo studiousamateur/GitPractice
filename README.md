@@ -1,2 +1,5 @@
 # GitPractice
-To Practice Github
+To Practice Github.
+===================
+
+This is a self tutorial to try and use github and gitbash.
